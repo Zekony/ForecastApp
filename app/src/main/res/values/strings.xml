@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ForecastApp</string>
+
+    <string name="exception_400">Код запроса 400 Bad Request - Запрос клиента некорректен или не может быть обработан сервером</string>
+    <string name="exception_401">Код запроса 401 Unauthorized - Клиент не авторизован для выполнения запрашиваемого действия</string>
+    <string name="exception_404">Код запроса 404 Not Found - Запрашиваемый ресурс не найден на сервере</string>
+    <string name="exception_500">Код запроса 500 Internal Server Error - На сервере произошла ошибка при выполнении запроса</string>
+
+    <string name="unknown_exception">Код ответа сервера не был добавлен</string>
+    <string name="connection_exception">Отсутствует интернет соединение</string>
+
+    <string name="to_details_screen">Подробный прогноз</string>
+    <string name="to_forecast_screen">Прогноз на 5 дней</string>
+    <string name="loading_error">Не удалось загрузить прогноз погоды</string>
+    <string name="try_again">Попробовать снова</string>
+</resources>
